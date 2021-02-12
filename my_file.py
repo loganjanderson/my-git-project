@@ -7,3 +7,5 @@ def hi_there():
     print('Hi there')
 
 hi_there()
+
+print('New line')

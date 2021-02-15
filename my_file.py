@@ -9,3 +9,7 @@ def hi_there():
 hi_there()
 
 print('New line')
+
+hi_there()
+
+print('New line')
